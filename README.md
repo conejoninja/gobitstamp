@@ -6,8 +6,6 @@ Simple wrapper in Go for Bitstamp's API
 ## Installation
 
 
-## Installation
-
 ```bash
 $ go get github.com/conejoninja/gobitstamp
 ```
