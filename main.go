@@ -1,4 +1,4 @@
-package bitstampgo
+package gobitstamp
 
 import (
 	"crypto/sha256"
